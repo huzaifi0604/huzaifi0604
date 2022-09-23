@@ -1,18 +1,17 @@
 ### Hi there 👋
-
-<!--
-**huzaifi0604/huzaifi0604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Muhammad Huzaifa and
 
 * 🔭 I’m currently enrolled in bachelors program for Cyber Security & Digital Forensics.
-* 🌱 I’m currently learning ...
+* 👨‍⚖️ Cyber Defense and Network Security Intern at Thincscorp 
+* 🧑‍💻 Trainer at Cyber Space Legion at FAST-NUCES
 * 👯 I’m looking to collaborate on
-        * Security Related Projects
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about anything
+     - Security Related Projects
+     - Software/ Mobile App Development
+     - Programming in C++, C, Java, x86 Assembly
+* 💬 Ask me about Anything
 * 📫 How to reach me
                     huzaifaasim@gmail.com
+* I would like to connect with you on
+  - Linkedin : https://www.linkedin.com/in/muhammad-huzaifa-707b43226
 * 😄 Pronouns: He
-* ⚡ Fun fact: ...
--->
+
