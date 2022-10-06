@@ -10,7 +10,7 @@ My name is Muhammad Huzaifa and
      - Programming in C++, C, Java, x86 Assembly
 * 💬 Ask me about Anything
 * 📫 How to reach me
-                    huzaifaasim@gmail.com
+                    huzzaifaasim@gmail.com
 * I would like to connect with you on
   - Linkedin : https://www.linkedin.com/in/muhammad-huzaifa-707b43226
 * 😄 Pronouns: He
