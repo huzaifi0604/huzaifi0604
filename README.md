@@ -14,4 +14,6 @@ My name is Muhammad Huzaifa and
 * I would like to connect with you on
   - Linkedin : https://www.linkedin.com/in/muhammad-huzaifa-707b43226
 * 😄 Pronouns: He
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg"/>
+* Languages
+
+     -:-------------------------- <img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg" width="50" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C%2B%2B.svg" width="50" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Python.png" width="50" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JAVA.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/HTML5.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/CSS3.png" width="60" height="60"> --------------------------:-
