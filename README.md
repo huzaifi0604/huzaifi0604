@@ -12,13 +12,15 @@ My name is Muhammad Huzaifa &
 * 😄 Pronouns: He
 ## Languages
 <p align="center">
-<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg" width="50" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C%2B%2B.svg" width="50" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Python.png" width="50" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JAVA.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/HTML5.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/CSS3.png" width="60" height="60">
+<img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C.svg" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/C%2B%2B.svg" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/Python.png" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JAVA.png" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/SQL.png" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/HTML5.png" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/CSS3.png" width="70" height="70">
 
 ## Tools
 <p align="center">
-<img src="https://assets.tryhackme.com/img/modules/metasploit.png" width="70" height="70"><img 
-src="https://media.trustradius.com/product-logos/dT/3e/JWKABGMWXUZ3.PNG" width="67" height="67"><img 
-src="https://github.com/file-icons/icons/blob/master/svg/Nmap.svg" width="70" height="70"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JAVA.png" width="60" height="60"><img src="https://github.com/SABERGLOW/SABERGLOW/blob/master/Misc/image%20backups/homeycombs/JavaScript.png" width="60" height="60">
+<img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/353176.svg" width="65" height="65"> <img src="https://assets.tryhackme.com/img/modules/metasploit.png" width="65" height="65"> <img 
+src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/wireshark.svg" width="65" height="65" style = "color:blue"> <img 
+src="https://github.com/keeferrourke/la-capitaine-icon-theme/blob/master/apps/scalable/nmap_icon.svg" width="65" height="65"> <img 
+src="https://github.com/amido/azure-vector-icons/blob/master/icons/Visual%20Studio.svg" width="65" height="65"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="65" height="65"> <img 
+src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/2020-splunk-planet.svg" width="65" height="65">
 
 ## Contact Me
 <p align="center">
