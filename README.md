@@ -28,7 +28,7 @@ src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/2020-splunk-plane
 <a href = https://github.com/huzaifi0604><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='50'></a>
 <a href = https://www.linkedin.com/in/muhammad-huzaifa-707b43226/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='50'></a>
 <a href = https://www.instagram.com/huzaifi0604/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='50'></a>
-<a href = https://medium.com/@huzzaifaasim/><img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/icons8-medium-50.png" alt='medium' height="50"></a>
+<a href = https://medium.com/@huzzaifaasim/><img src="https://github.com/huzaifi0604/huzaifi0604/blob/main/pics/icons8-medium-64.png" alt='medium' height="50"></a>
 
 
 ## 📈 My Github Stats:     <a href="https://github.com/huzaifi0604"> <img src="https://komarev.com/ghpvc/?username=huzaifi0604&label=Profile+Views&color=2e8b57&style=flat" /></a>
